@@ -6,10 +6,10 @@
 ### <div align="center">I'm Nischal, a full-time full-stack freelance developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Express and AWS  
+- 🌱 Matery in Java and SpringBoot 
   
 
-- ❓ Ask me about anything related to MERN stack and Cross Platform Mobile App Developoment  
+- ❓ Ask me about anything related to React, SpringBoot  and Cross Platform Mobile App Developoment  
   
 
 - ⚡ Fun fact: I can do Figma designs too ;)  
